@@ -2,7 +2,7 @@
 - 👀 I’m interested in football and F1
 - 🌱 I’m currently learning EE
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me @zn20010203@qq.com
+- 📫 How to reach me @zn20010203@outlook.com
 
 <!---
 shadow782/shadow782 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
